@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Vini
 
-<!--
-**2002vini/2002vini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Software Engineer, cloud-certified, building with the mindset of a product manager.
 
-Here are some ideas to get you started:
+I like building systems that are not just technically sound, but also useful and intuitive.  
+I also spend a lot of time talking to AI — exploring, experimenting, and turning ideas into working solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- **Languages:** Go, Python, C++, JavaScript  
+- **Backend:** FastAPI, Node.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools & Tech:** Docker, Git, Redis, REST APIs  
+- **Other:** System Design, Distributed Systems  
+
+---
+
+## 🌱 Currently Exploring
+- AI-powered applications  
+- Scalable backend systems in Go  
+- Practical system design  
+
+---
+
+## 🎯 Interests
+- Backend engineering  
+- Building with AI  
+- Developer tools  
+- Product thinking
+
+---
+
+## ⚡ Fun Facts
+- I put AI to work for me 🤖  
+- I enjoy simplifying complex systems  
+- I care as much about *why* as *how*  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vinihundlani/
+- Email: hundlanivini2002@gmail.com
+
