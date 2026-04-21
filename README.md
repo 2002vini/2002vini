@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Vini
 
 ## 🚀 About Me
-Software Engineer, cloud-certified, building with the mindset of a product manager.
+Software Engineer with a Cloud Solutions Architect certification, building with the mindset of a product manager.
 
 I like building systems that are not just technically sound, but also useful and intuitive.  
 I also spend a lot of time talking to AI — exploring, experimenting, and turning ideas into working solutions.
@@ -24,18 +24,12 @@ I also spend a lot of time talking to AI — exploring, experimenting, and turni
 
 ---
 
-## 🎯 Interests
-- Backend engineering  
-- Building with AI  
-- Developer tools  
-- Product thinking
-
----
-
 ## ⚡ Fun Facts
-- I put AI to work for me 🤖  
-- I enjoy simplifying complex systems  
+- I put AI to work for me 🤖
 - I care as much about *why* as *how*  
+- I work better after coffee
+- I enjoy simplifying complex systems  
+
 
 ---
 
